@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Al-Mansouri Al-Kuwari Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mansouri-kuwari-wedding-20261210@invite
+DTSTAMP:20260926T000000Z
+DTSTART:20261210T180000Z
+DTEND:20261210T220000Z
+SUMMARY:حفل زفاف آل المنصوري وآل الكواري · Wedding celebration
+LOCATION:Sheraton Grand Doha Resort & Convention Hotel\, Al Dafna\, Doha
+DESCRIPTION:Ladies' celebration & zaffa · حفل النساء والزفة\nThursday 10 December 2026 · 9:00 PM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Wedding tomorrow · الزفاف غداً
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Wedding tonight · الزفاف الليلة
+END:VALARM
+END:VEVENT
+END:VCALENDAR
